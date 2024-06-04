@@ -18,11 +18,11 @@ If you would like to use analog pins A0-A6 as digital, please replace resistors 
 - [ ] Fix incorrect diode in some designators (SMAJ60CA instead of SMAJ5.0A)
 - [ ] Find TVS with lower internal capacitance to be more suitable with PWM or communication (I2C, SPI)
 ## Images
-![Image 1](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/3X8_TERMINAL_BLOCK_TopView.png)
-![Image 2](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/3X8_TERMINAL_BLOCK_LeftSide.png)
-![Image 3](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/3X8_TERMINAL_BLOCK_Front.png)
-![Image 4](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/3X8_TERMINAL_BLOCK_LeftSide.png)
-![Image 5](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/3X8_TERMINAL_BLOCK_Front.png)
+![Image 1](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/Arduino_Terminal_Shield_image1.png)
+![Image 2](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/Arduino_Terminal_Shield_image2.png)
+![Image 3](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/Arduino_Terminal_Shield_image3.png)
+![Image 4](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/Arduino_Terminal_Shield_image4.png)
+![Image 5](https://github.com/TestDuino/ArduinoTerminalShield/blob/main/Images/Arduino_Terminal_Shield_image5.png)
 
 ### Contributions
 If you find any bugs, have suggestions, or would like to contribute to the development of this project, feel free to contact me or submit a pull request (PR). Your contributions are greatly appreciated, and I am always open to feedback and collaboration. Thank you for helping to improve this project!
